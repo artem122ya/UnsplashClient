@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">UnsplashClient</string>
+
+    <string name="app_bar_search_title">Search</string>
+    <string name="no_connection_textview_text">No connection</string>
+    <string name="app_bar_download_title">Download photo</string>
+    <string name="app_bar_wallpaper_title">Set wallpaper</string>
+    <string name="no_results_snackbar_text">No results</string>
+    <string name="network_error_textview_text">Can\'t connect to server</string>
+    <string name="error_loading_image_snackbar_text">Error loading image</string>
+    <string name="photo_saved_snackbar_text">"Saved to "</string>
+    <string name="saving_error_snackbar_text">Error when saving image</string>
+    <string name="wallpaper_set_successfully_snackbar_text">Wallpaper set successfully</string>
+    <string name="wallpaper_setting_error_snackbar_text">Error when setting wallpaper</string>
+    <string name="no_storage_permission_snackbar_text">Can\'t download picture without storage permission</string>
+    <string name="http_exception_textview_text">"Can\'t load pictures. Http code: "</string>
+
+</resources>
